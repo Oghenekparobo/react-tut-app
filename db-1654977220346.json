@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "chapter one",
+      "body": "the fall of a man",
+      "author": "steven chamberlain",
+      "id": 1
+    },
+    {
+      "title": "chapter two",
+      "body": "the fall of a woman",
+      "author": "alex worshnick",
+      "id": 2
+    },
+    {
+      "title": "chapter three",
+      "body": "the fall of dinosuars",
+      "author": "huse mjembr",
+      "id": 3
+    },
+    {
+      "title": "chapter four",
+      "body": "the fall of a woman",
+      "author": "alex worshnick",
+      "id": 4
+    },
+    {
+      "title": "chapter five",
+      "body": "the fall of dinosuars",
+      "author": "huse mjembr",
+      "id": 5
+    }
+  ]
+}
